@@ -1,3 +1,0 @@
-
-
-void horiz_line(
