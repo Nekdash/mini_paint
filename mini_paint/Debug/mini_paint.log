@@ -1,0 +1,3 @@
+﻿  mini_paint.cpp
+C:\Users\DARYA\Desktop\CS\C++\mini_paint\mini_paint.cpp(7,23): warning C4018: <: несоответствие типов со знаком и без знака
+  mini_paint.vcxproj -> C:\Users\DARYA\Desktop\CS\C++\mini_paint\Debug\mini_paint.exe
